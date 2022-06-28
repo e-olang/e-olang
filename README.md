@@ -14,13 +14,14 @@ I'm a Data Scientist and Machine Learning Engineer with a track record of using 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=e-olang&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🌱Current
-- 🔭 I’m currently working on a custom RoBERTa Fill Mask model for Swahili language.
-- 🤔 I’m looking for help with collecting transalted English to Swahili text data.
 - 👯 I’m looking to collaborate on any interesting NLP and Computer Vission Projects
-- 💬 Ask me about NLP
 - 📫 How to reach me: via email: oluoch9@gmail.com
-- 😄 Pronouns: Him / He
 - ⚡ Fun fact: _Only the paranoid survive_.
+
+## Academic Research
+
+### Custom-Transfomers
+Building a custom fill mask language model based on RoBERTa architecture. The idea is to create an MLM model for Swahili language which is currently considered one of the low-resource languages popular in East and Central Africa. All this is built using the hugging face transfomer library and Pytorch ml ml framework 
 
 ## Projects
 
@@ -33,9 +34,6 @@ Simple demostration on impleneting text summarization using Spacy NLP library. T
 ### [Exploraotry Analysis & Topic Modelling](https://github.com/e-olang/NLP/blob/main/Topic%20Modelling/topic_modelling_v2.ipynb)
 Text Exploartory analysis and topic modeling in the ['How ISIS Uses Twitter'](https://www.kaggle.com/datasets/fifthtribe/how-isis-uses-twitter) dataset from Kaggle. This was done using Latent Dirichlet Allocation Algorithm.
 
-## Academic Research
-### Custom-Transfomers
-Building a custom fill mask language model based on RoBERTa architecture. The idea is to create an MLM model for Swahili language which is currently considered one of the low-resource languages popular in East and Central Africa. All this is built using the hugging face transfomer library and Pytorch ml ml framework 
 
 ### [Swahili Word Embeddings Using Word2Vec](https://github.com/e-olang/NLP/tree/main/Swahili/Word2Vec%20-%20Model)
 A demo on traning word embedings which can be used as features in place of Tf-Idf &/ Count Vectorizer features.
