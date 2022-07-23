@@ -21,7 +21,7 @@ I'm a Data Scientist and Machine Learning Engineer with a track record of using 
 ## Academic Research
 
 ### Custom-Transfomers
-Building a custom fill mask language model based on RoBERTa architecture. The idea is to create an MLM model for Swahili language which is currently considered one of the low-resource languages popular in East and Central Africa. All this is built using the hugging face transfomer library and Pytorch ml ml framework 
+Building a custom fill mask language model based on RoBERTa architecture. The idea is to create an MLM model for Swahili language which is currently considered one of the low-resource languages popular in East and Central Africa. All this is built using the Hugging Face transfomer library and Pytorch framework 
 
 ## Projects
 
