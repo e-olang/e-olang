@@ -20,7 +20,7 @@ I'm a Data Scientist and Machine Learning Engineer with a track record of using 
 
 ## Academic Research
 
-### Custom-Transfomers
+### [Custom-Transfomers (Swa-BERT)](https://github.com/e-olang/Swa-BERT)
 Building a custom fill mask language model based on RoBERTa architecture. The idea is to create an MLM model for Swahili language which is currently considered one of the low-resource languages popular in East and Central Africa. All this is built using the Hugging Face transfomer library and Pytorch framework 
 
 ## Projects
