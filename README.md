@@ -25,6 +25,10 @@ A fill-mask language model based on BERT architecture. The idea is to create a m
 
 ## Projects
 
+### [Youtube video transcription using Openai Whisper](https://github.com/e-olang/NLP/tree/main/Whipser%20ASR)
+Using Open AI's Whipser to transcribe audio to text. Audio files extracted from Youtube video URLs. Models used: Tiny, Base & Small.
+Try out the live App [here](https://huggingface.co/spaces/eolang/Whisper-Transcriber).
+
 ### [Animating Covid-19 Vacination Progress](https://github.com/e-olang/Drafts/tree/master/Visualizations/Covid19%20Vaccination%20Time%20Series)
 Visualizing progress of admistering Covid-19 vaccines globaly based on time series data from [The Humanitarian Data Exchange](https://data.humdata.org/dataset/covid-19-vaccinations). 
 
