@@ -1,6 +1,6 @@
 # 💫About Me :
 I'm a Data Scientist and Machine Learning Engineer with a track record of using cutting-edge technology to tackle data-driven problems. With years of experience using machine learning and natural language processing to tackle real-world problems through academic research, I am always looking for new possibilities in organisations that will allow me to utilise and enhance my knowledge by exploring new areas in industry and research. \
-[Download Curriculum Vitae (CV)](https://github.com/e-olang/e-olang/blob/main/Files/eolang_resume.pdf)
+[Download Résumé](https://github.com/e-olang/e-olang/blob/main/Files/eolang_resume.pdf)
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/joeolang) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eoolang-99140b134/') [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/olangjoe) 
