@@ -9,7 +9,7 @@ I'm a Data Scientist and Machine Learning Engineer with a track record of using 
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
 
 ## 📊GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=e-olang&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
+<!---![](https://github-readme-stats.vercel.app/api?username=e-olang&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=e-olang&theme=react&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=e-olang&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
