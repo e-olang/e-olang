@@ -1,5 +1,5 @@
 # 💫About Me :
-I'm a Data Scientist and Machine Learning Engineer with a track record of using cutting-edge technology to tackle data-driven problems. With years of experience using machine learning and natural language processing to tackle real-world problems through academic research, I am always looking for new possibilities in organisations that will allow me to utilise and enhance my knowledge by exploring new areas in industry and research. \
+I'm a Machine Learning Engineer with a track record of using cutting-edge technology to tackle data-driven problems. With years of experience using machine learning and natural language processing to tackle real-world problems through academic research, I am always looking for new possibilities in organisations that will allow me to utilise and enhance my knowledge by exploring new areas in industry and research. \
 [Download Résumé](https://github.com/e-olang/e-olang/blob/main/Files/eolang_resume.pdf) <br>
 [LinkedIn Profile](https://www.linkedin.com/in/eolang/)
 
