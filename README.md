@@ -21,7 +21,7 @@ I'm a Machine Learning Engineer with a track record of using cutting-edge techno
 ### [Swahili transformer language models (Experiments & Finanlizing Phase)]()
 A research paper comparing existing languages models both for multilingual and unilingual cases then propose a new fill-mask model and accompanying tokenizer to aid in filling the gap for low-resource NLP
 
-### Multilingual Semantic Search
+### Utafiti (Small Simple Search Engine for Article / Paper Abstracts)
 An attempt to develop a similarity search model capable of generating optimal numeric text representations for more than one language. The final intended use would be to build some search engine. Still doing reviews of related material to establish what is feasible. Feel free to reach out and help. A demo of how semantic search can be used can be seen here; although in English, this tool tries to return similar research papers/works based on the user queries.
 
 ### [Custom-Transfomers (Swa-BERT)](https://github.com/e-olang/Custom-Transfomers-Swa-BERT)
