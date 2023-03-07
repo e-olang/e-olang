@@ -14,18 +14,15 @@ I'm a Machine Learning Engineer with a track record of using cutting-edge techno
 ## 🌱Current
 - 👯 I’m looking to collaborate on any interesting AI and or Machine Learning Projects
 - 📫 How to reach me: via email: oluoch9@gmail.com
-- ⚡ Fun fact: _Only the paranoid survive_.
 
 ## Academic Research
 
-### [Swahili transformer language models (Experiments & Finanlizing Phase)]()
+### [Swahili transformer language models (Experiments & Finanlizing Phase)](https://huggingface.co/TUS)
 A research paper comparing existing languages models both for multilingual and unilingual cases then propose a new fill-mask model and accompanying tokenizer to aid in filling the gap for low-resource NLP
 
 ### Utafiti (Small Simple Search Engine for Article / Paper Abstracts)
 An attempt to develop a similarity search model capable of generating optimal numeric text representations for more than one language. The final intended use would be to build some search engine. Still doing reviews of related material to establish what is feasible. Feel free to reach out and help. A demo of how semantic search can be used can be seen here; although in English, this tool tries to return similar research papers/works based on the user queries.
 
-### [Custom-Transfomers (Swa-BERT)](https://github.com/e-olang/Custom-Transfomers-Swa-BERT)
-A fill-mask language model based on BERT architecture. The idea is to create a masked language model for the Swahili language which is currently considered one of the low-resource languages popular in East and Central Africa. This model can then be finetuned for downstream tasks like Text Classification, Topic Modelling, Named Entity Recognition, etc. All this is built using the Hugging Face transformer library and Pytorch framework.
 
 ## Projects
 ### [Youtube video transcription using Openai Whisper](https://github.com/e-olang/NLP/tree/main/Whipser%20ASR)
