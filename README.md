@@ -17,7 +17,7 @@ I'm a Machine Learning Enthusiast with a track record of using cutting-edge tech
 
 ## Research
 
-### S-Search (Small Simple Search Engine for Article / Paper Abstracts)
+### [S-Search (Small Simple Search Engine for Article / Paper Abstracts)](https://huggingface.co/spaces/eolang/Search)
 An attempt to develop a similarity search model capable of generating optimal numeric text representations for more than one language. The final intended use would be to build some search engine. Still doing reviews of related material to establish what is feasible. Feel free to reach out and help. A demo of how semantic search can be used can be seen [here](https://huggingface.co/spaces/eolang/Search); although in English, this tool tries to return similar research papers/works based on the user queries.
 
 ### [Swahili transformer language models (Experiments & Finanlizing Phase)](https://huggingface.co/TUS)
