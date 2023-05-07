@@ -1,5 +1,5 @@
 # 💫About Me :
-I'm a Machine Learning Engineer with a track record of using cutting-edge technology to tackle data-driven problems. With years of experience using machine learning and natural language processing to tackle real-world problems through academic research, I am always looking for new possibilities in organisations that will allow me to utilise and enhance my knowledge by exploring new areas in industry and research. \
+I'm a Machine Learning Enthusiast with a track record of using cutting-edge technology to tackle data-driven problems. With years of experience using machine learning and natural language processing to tackle real-world problems through academic research, I am always looking for new possibilities in organisations that will allow me to utilise and enhance my knowledge by exploring new areas in industry and research. \
 [Download Résumé](https://github.com/e-olang/e-olang/blob/main/Files/eolang_resume.pdf) <br>
 [LinkedIn Profile](https://www.linkedin.com/in/eolang/)
 
@@ -15,13 +15,13 @@ I'm a Machine Learning Engineer with a track record of using cutting-edge techno
 - 👯 I’m looking to collaborate on any interesting AI and or Machine Learning Projects
 - 📫 How to reach me: via email: oluoch9@gmail.com
 
-## Academic Research
+## Research
+
+### S-Search (Small Simple Search Engine for Article / Paper Abstracts)
+An attempt to develop a similarity search model capable of generating optimal numeric text representations for more than one language. The final intended use would be to build some search engine. Still doing reviews of related material to establish what is feasible. Feel free to reach out and help. A demo of how semantic search can be used can be seen [here](https://huggingface.co/spaces/eolang/Search); although in English, this tool tries to return similar research papers/works based on the user queries.
 
 ### [Swahili transformer language models (Experiments & Finanlizing Phase)](https://huggingface.co/TUS)
 A research paper comparing existing languages models both for multilingual and unilingual cases then propose a new fill-mask model and accompanying tokenizer to aid in filling the gap for low-resource NLP
-
-### Utafiti (Small Simple Search Engine for Article / Paper Abstracts)
-An attempt to develop a similarity search model capable of generating optimal numeric text representations for more than one language. The final intended use would be to build some search engine. Still doing reviews of related material to establish what is feasible. Feel free to reach out and help. A demo of how semantic search can be used can be seen here; although in English, this tool tries to return similar research papers/works based on the user queries.
 
 
 ## Projects
