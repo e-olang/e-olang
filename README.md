@@ -1,5 +1,5 @@
 # About Me :
-I'm a Machine Learning Enthusiast with a track record of using cutting-edge technology to tackle data-driven problems. With years of experience using machine learning and natural language processing to tackle real-world problems through academic research, I am always looking for new possibilities in organisations that will allow me to utilise and enhance my knowledge by exploring new areas in industry and research. \
+I'm a Machine Learning Enthusiast with a track record of using cutting-edge technology to tackle data-driven problems. With years of experience using machine learning and natural language processing to tackle real-world problems through academic research, I am always looking for new possibilities in organizations that will allow me to utilize and enhance my knowledge by exploring new areas in industry and research. \
 [Download Résumé](https://github.com/e-olang/e-olang/blob/main/Files/eolang_resume.pdf) <br>
 [LinkedIn Profile](https://www.linkedin.com/in/eolang/)
 
@@ -21,21 +21,21 @@ I'm a Machine Learning Enthusiast with a track record of using cutting-edge tech
 An attempt to develop a similarity search model capable of generating optimal numeric text representations for more than one language. The final intended use would be to build some search engine. Still doing reviews of related material to establish what is feasible. Feel free to reach out and help. A demo of how semantic search can be used can be seen [here](https://huggingface.co/spaces/eolang/Search); although in English, this tool tries to return similar research papers/works based on the user queries.
 
 ### [Swahili transformer language models (2022 - 23)](https://huggingface.co/TUS)
-A research paper comparing existing languages models both for multilingual and unilingual cases then propose a new fill-mask model and accompanying tokenizer to aid in filling the gap for low-resource NLP. Currently working on Experiments and Tuning
+A research paper comparing existing language models both for multilingual and unilingual cases then propose a new fill-mask model and accompanying tokenizer to aid in filling the gap for low-resource NLP. Currently working on Experiments and Tuning
 
 
 ## Projects
 ### [Youtube video transcription using Open AI's Whisper API (2022)](https://huggingface.co/spaces/eolang/Whisper-Transcriber)
-Using Open AI's Whipser to transcribe audio to text. Audio files extracted from Youtube video URLs. Models used: Tiny, Base & Small. Try out the live App [here](https://huggingface.co/spaces/eolang/Whisper-Transcriber).
+Using Open AI's Whisper to transcribe audio to text. Audio files extracted from Youtube video URLs. Models used: Tiny, Base & Small. Try out the live App [here](https://huggingface.co/spaces/eolang/Whisper-Transcriber).
 
 ### [Animating Covid-19 Vacination Progress (2021 - 22)](https://github.com/e-olang/Drafts/tree/master/Visualizations/Covid19%20Vaccination%20Time%20Series)
-Visualizing progress of admistering Covid-19 vaccines globaly based on time series data from [The Humanitarian Data Exchange](https://data.humdata.org/dataset/covid-19-vaccinations). 
+Visualizing progress of administering Covid-19 vaccines globally based on time series data from [The Humanitarian Data Exchange](https://data.humdata.org/dataset/covid-19-vaccinations). 
 
 ### [Text Summarization Demo (2021)](https://github.com/e-olang/NLP/blob/main/Text%20Summarization/v1.ipynb)
-Simple demostration on impleneting text summarization using Spacy NLP library. This could however be improved using a better tokenizer e.g. a custom higging face tokeizer built on the data from a specifc field as opposed to using general white space tokenizers.
+A simple demonstration of implementing text summarization using the Spacy NLP library. This could, however, be improved using a better tokenizer e.g. a custom HuggingFace tokenizer built on the data from a specific field as opposed to using general white space tokenizers.
 
 ### [Exploraotry Analysis & Topic Modelling (2021)](https://github.com/e-olang/NLP/blob/main/Topic%20Modelling/topic_modelling_v2.ipynb)
-Text Exploartory analysis and topic modeling in the ['How ISIS Uses Twitter'](https://www.kaggle.com/datasets/fifthtribe/how-isis-uses-twitter) dataset from Kaggle. This was done using Latent Dirichlet Allocation Algorithm.
+Text Exploratory analysis and topic modeling in the ['How ISIS Uses Twitter'](https://www.kaggle.com/datasets/fifthtribe/how-isis-uses-twitter) dataset from Kaggle. This was done using Latent Dirichlet Allocation Algorithm.
 
 
 ---
