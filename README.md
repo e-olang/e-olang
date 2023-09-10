@@ -15,21 +15,13 @@ I'm a dedicated Machine Learning Researcher and AI enthusiast with a keen intere
 - 👯 I’m looking to collaborate on any interesting Artificial Intelligence and or Machine Learning Projects
 - 📫 How to reach me: via email: [oluoch9@gmail.com](mailto:oluoch9@gmail.com)
 
-## Research
+## Research & Projects
 
 ### [Similarity Search Engine for Research Paper Abstracts; Using Sentence Transformers(2023))](https://huggingface.co/spaces/eolang/Search)
 An attempt to develop a similarity search model capable of generating optimal numeric text representations for more than one language. The final intended use would be to build some search engine. Still doing reviews of related material to establish what is feasible. Feel free to reach out and help. A demo of how semantic search can be used can be seen [here](https://huggingface.co/spaces/eolang/Search); although in English, this tool tries to return similar research papers/works based on the user queries.
 
 ### [Swahili transformer language models (2022 - 23)](https://huggingface.co/eolang/SW-v1)
-A transformers model pre-trained on a large corpus of Swahili data in a self-supervised fashion. This means it was pre-trained on the raw texts only, with no humans labeling them in any way (which is why it can use lots of publicly available data) with an automatic process to generate inputs and labels from those texts. More precisely, it was pre-trained for a masked language modeling objective
-
-
-## Projects
-### [Youtube video transcription using Open AI's Whisper API (2022)](https://huggingface.co/spaces/eolang/Whisper-Transcriber)
-Using Open AI's Whisper to transcribe audio to text. Audio files extracted from Youtube video URLs. Models used: Tiny, Base & Small. Try out the live App [here](https://huggingface.co/spaces/eolang/Whisper-Transcriber).
-
-### [Animating Covid-19 Vacination Progress (2021 - 22)](https://github.com/e-olang/Drafts/tree/master/Data%20Visualization/Covid19%20Vaccination%20Time%20Series)
-Visualizing progress of administering Covid-19 vaccines globally based on time series data from [The Humanitarian Data Exchange](https://data.humdata.org/dataset/covid-19-vaccinations). 
+A transformers model pre-trained on a large corpus of Swahili data in a self-supervised fashion. This means it was pre-trained on the raw texts only, with no humans labeling them in any way (which is why it can use lots of publicly available data) with an automatic process to generate inputs and labels from those texts. More precisely, it was pre-trained for a masked language modeling objective.
 
 
 
