@@ -20,7 +20,7 @@ I'm a dedicated Machine Learning Researcher and AI enthusiast with a keen intere
 ### [Similarity Search Engine for Research Paper Abstracts; Using Sentence Transformers(2023))](https://huggingface.co/spaces/eolang/Search)
 An attempt to develop a similarity search model capable of generating optimal numeric text representations for more than one language. The final intended use would be to build some search engine. Still doing reviews of related material to establish what is feasible. Feel free to reach out and help. A demo of how semantic search can be used can be seen [here](https://huggingface.co/spaces/eolang/Search); although in English, this tool tries to return similar research papers/works based on the user queries.
 
-### [Swahili transformer language models (2022 - 23)](https://huggingface.co/eolang/SW-v1)
+### [Swahili transformer language models (2023)](https://huggingface.co/eolang/SW-v1)
 A transformers model pre-trained on a large corpus of Swahili data in a self-supervised fashion. This means it was pre-trained on the raw texts only, with no humans labeling them in any way (which is why it can use lots of publicly available data) with an automatic process to generate inputs and labels from those texts. More precisely, it was pre-trained for a masked language modeling objective.
 
 
