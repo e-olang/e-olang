@@ -1,6 +1,5 @@
 # About Me :
-I'm a dedicated Machine Learning Researcher and AI enthusiast with a keen interest in Natural Language Processing (NLP) and Reinforcement Learning. As an experienced ML Engineer, I have a proven track record of developing cutting-edge solutions that leverage the power of AI to solve real-world challenges. \
-[Download Résumé](https://github.com/e-olang/e-olang/blob/main/Files/eolang_resume.pdf) <br>
+I'm a dedicated Machine Learning Researcher and AI enthusiast interested in Natural Language Processing (NLP) and Reinforcement Learning. As an experienced ML Engineer, I have a proven track record of developing cutting-edge solutions that leverage the power of AI to solve real-world challenges. \
 [LinkedIn Profile](https://www.linkedin.com/in/eolang/)
 
 ## 💻Tech Stack
